@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NSCC.props" />
+</Project>
